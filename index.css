@@ -186,6 +186,10 @@ video {
   margin-bottom: 15px;
 }
 
+source {
+  max-width: fit-content;
+}
+
 .project-div > h1 {
   font-family: "Cinzel", serif;
   border-bottom: 2px black solid;
